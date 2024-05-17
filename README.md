@@ -41,6 +41,8 @@ The project outlines the methodology for training and evaluating the SARIMA mode
 * **Evaluation:**  Assessing the model's accuracy using performance metrics.
 
 ## Results (to be added)
+![image](https://github.com/FajanSunusara/Household-Energy-Consumpition-Prediction-Using-Time-Series/assets/49346372/a118d0a1-158d-43a8-8caf-8b68ee846e55)
+
 
 This section will be populated with the results of implementing the SARIMA model. It will likely include:
 
