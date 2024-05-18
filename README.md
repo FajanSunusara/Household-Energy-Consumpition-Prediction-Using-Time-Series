@@ -6,7 +6,7 @@ This project investigates methods for forecasting household energy consumption, 
 * 💸 **Cost-Effectiveness:** Empowering homeowners to optimize energy usage and minimize costs.
 * ⚡ **Resource Management:** Assisting utility companies in optimizing resource allocation and grid management.
 
-![Energy Forecasting](https://your-image-link.com)
+![Energy Forecasting](https://unsplash.com/photos/gMsnXqILjp4)
 
 ## 🎯 Project Goals
 
