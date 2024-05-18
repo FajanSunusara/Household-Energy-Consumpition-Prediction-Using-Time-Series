@@ -41,11 +41,13 @@ The project outlines the methodology for training and evaluating the SARIMA mode
 * **Evaluation:**  Assessing the model's accuracy using performance metrics.
 
 ## Results (to be added)
-### using Linear Regression
+### * Using Linear Regression
 ![download](https://github.com/FajanSunusara/Household-Energy-Consumpition-Prediction-Using-Time-Series/assets/49346372/8d05dee3-1840-44ac-9e00-266b350d2bcb)
+### * Using Sarima Model 
 
 ![download](https://github.com/FajanSunusara/Household-Energy-Consumpition-Prediction-Using-Time-Series/assets/49346372/43b87543-50a8-419f-ac70-947e766c6d10)
 ![download](https://github.com/FajanSunusara/Household-Energy-Consumpition-Prediction-Using-Time-Series/assets/49346372/42f9aa83-1da6-401a-bd5a-119d3d7c90e8)
+### * Using Facebook Prophet
 
 ![download](https://github.com/FajanSunusara/Household-Energy-Consumpition-Prediction-Using-Time-Series/assets/49346372/97ae7a3a-bcbe-4c52-9eb9-cf8fc9ca88d5)
 
